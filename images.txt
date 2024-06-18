@@ -1,1 +1,2 @@
 docker.io/istio/examples-bookinfo-details-v1:1.16.4
+registry:2.8.3
