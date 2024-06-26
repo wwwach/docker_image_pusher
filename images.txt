@@ -1,1 +1,2 @@
-otel/opentelemetry-collector-contrib:0.103.1
+# otel/opentelemetry-collector-contrib:0.103.1
+otel/autoinstrumentation-java:2.5.0
