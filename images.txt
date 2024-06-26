@@ -1,2 +1,2 @@
-busybox:latest
-python:3.7-slim
+ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.103.0
+gcr.io/kubebuilder/kube-rbac-proxy:v0.13.1
