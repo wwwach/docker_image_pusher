@@ -2,4 +2,5 @@
 # otel/autoinstrumentation-java:2.5.0
 # victoriametrics/victoria-metrics:latest
 # grafana/tempo:latest
-grafana/grafana:latest
+#grafana/grafana:latest
+kindest/node@sha256:53df588e04085fd41ae12de0c3fe4c72f7013bba32a20e7325357a1ac94ba865
